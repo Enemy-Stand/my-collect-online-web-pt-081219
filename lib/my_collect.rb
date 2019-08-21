@@ -7,6 +7,3 @@ def my_collect(array)
   end
   collection
 end
-
-collection = []
-my_collect(collection)
