@@ -2,6 +2,7 @@ def my_collect(collection)
   collection = []
   collection.each do |name|
     name.split(" ").first
+    puts "#{name}."
   end
   collection
 end
