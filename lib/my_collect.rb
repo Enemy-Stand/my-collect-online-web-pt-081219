@@ -1,6 +1,6 @@
 def my_collect(collection)
   collection = []
-  my_collect.each(collection) do |name|
+  collection.each do |name|
     name.split(" ").first
   end
 end
