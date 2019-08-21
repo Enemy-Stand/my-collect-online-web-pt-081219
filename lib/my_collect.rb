@@ -8,4 +8,5 @@ def my_collect(collection)
   collection
 end
 
+collection = []
 my_collect(collection)
