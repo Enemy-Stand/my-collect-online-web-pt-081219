@@ -5,4 +5,5 @@ def my_collect(collection)
   end
 end
 
+collection = 
 my_collect(collection)
