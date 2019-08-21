@@ -2,7 +2,7 @@ def my_collect(collection)
   collection = []
   collection.each do |name|
     name.split(" ").first
-    puts "#{name}."
+    puts "#{name.upcase}."
   end
   collection
 end
