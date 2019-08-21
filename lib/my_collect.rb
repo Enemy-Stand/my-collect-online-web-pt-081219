@@ -4,7 +4,7 @@ def my_collect(collection)
     name.split(" ").first
     puts "#{name.upcase}."
   end
-  collection
+  puts collection
 end
 
 collection = ["Tim Jones", "Tom Smith", "Jim Campagno"]
