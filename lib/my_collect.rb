@@ -8,5 +8,4 @@ def my_collect(collection)
   collection
 end
 
-collection = ["Tim Jones", "Tom Smith", "Jim Campagno"]
-my_collect(collection)
+my_collect
