@@ -1,7 +1,7 @@
 def my_collect(collection)
   i = 0
   collection = []
-  while i < array.length
+  while i < collection.length
   collection.each do |name|
     name.split(" ").first
     puts "#{name.upcase}."
