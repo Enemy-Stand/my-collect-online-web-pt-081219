@@ -5,5 +5,5 @@ def my_collect(collection)
   end
 end
 
-collection = 
+collection = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 my_collect(collection)
